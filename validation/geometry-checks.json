@@ -1,0 +1,84 @@
+{
+  "compiler": "OpenSCAD 2026.10.02 WebAssembly",
+  "stages_mm": [
+    285,
+    300,
+    315
+  ],
+  "positive_volume_tolerance_mm3": 1e-05,
+  "scope": "Nominal geometry only; monitor rear profile and keyboard envelope are approximations. Not a structural or load test.",
+  "checks": [
+    {
+      "stage": 0,
+      "part": "test_frame_tray_overlap",
+      "intersection_volume_mm3": 0,
+      "result": "empty"
+    },
+    {
+      "stage": 0,
+      "part": "test_keyboard_overlap",
+      "intersection_volume_mm3": 0,
+      "result": "empty"
+    },
+    {
+      "stage": 0,
+      "part": "test_pins_overlap",
+      "intersection_volume_mm3": 1.8947806286936004e-14,
+      "result": "zero-volume contact"
+    },
+    {
+      "stage": 0,
+      "part": "test_monitor_overlap",
+      "intersection_volume_mm3": 0,
+      "result": "empty"
+    },
+    {
+      "stage": 1,
+      "part": "test_frame_tray_overlap",
+      "intersection_volume_mm3": 0,
+      "result": "empty"
+    },
+    {
+      "stage": 1,
+      "part": "test_keyboard_overlap",
+      "intersection_volume_mm3": 0,
+      "result": "empty"
+    },
+    {
+      "stage": 1,
+      "part": "test_pins_overlap",
+      "intersection_volume_mm3": 6.158037043254201e-14,
+      "result": "zero-volume contact"
+    },
+    {
+      "stage": 1,
+      "part": "test_monitor_overlap",
+      "intersection_volume_mm3": 0,
+      "result": "empty"
+    },
+    {
+      "stage": 2,
+      "part": "test_frame_tray_overlap",
+      "intersection_volume_mm3": 0,
+      "result": "empty"
+    },
+    {
+      "stage": 2,
+      "part": "test_keyboard_overlap",
+      "intersection_volume_mm3": 0,
+      "result": "empty"
+    },
+    {
+      "stage": 2,
+      "part": "test_pins_overlap",
+      "intersection_volume_mm3": 1.4210854715202004e-14,
+      "result": "zero-volume contact"
+    },
+    {
+      "stage": 2,
+      "part": "test_monitor_overlap",
+      "intersection_volume_mm3": 0,
+      "result": "empty"
+    }
+  ]
+}

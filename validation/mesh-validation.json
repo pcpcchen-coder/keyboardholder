@@ -1,0 +1,236 @@
+[
+  {
+    "file": "coupon_joint.stl",
+    "triangles": 32,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 9210.88,
+    "size_mm": [
+      14.0,
+      24.0,
+      32.0
+    ],
+    "min_mm": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "coupon_rail.stl",
+    "triangles": 32,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 25338.88,
+    "size_mm": [
+      14.0,
+      60.0,
+      32.0
+    ],
+    "min_mm": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "coupon_slider.stl",
+    "triangles": 72,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 12910.72,
+    "size_mm": [
+      22.7,
+      30.0,
+      40.7
+    ],
+    "min_mm": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "lower_left.stl",
+    "triangles": 230,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 78522.27,
+    "size_mm": [
+      35.159,
+      197.35,
+      32.0
+    ],
+    "min_mm": [
+      -0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "lower_right.stl",
+    "triangles": 230,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 78522.27,
+    "size_mm": [
+      35.159,
+      197.35,
+      32.0
+    ],
+    "min_mm": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "pin_joint.stl",
+    "triangles": 160,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 1389.07,
+    "size_mm": [
+      42.4,
+      11.0,
+      8.0
+    ],
+    "min_mm": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "pin_tray.stl",
+    "triangles": 160,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 1597.87,
+    "size_mm": [
+      51.1,
+      11.0,
+      8.0
+    ],
+    "min_mm": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "top_fit_left.stl",
+    "triangles": 166,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 42866.93,
+    "size_mm": [
+      54.759,
+      42.0,
+      32.0
+    ],
+    "min_mm": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "top_fit_right.stl",
+    "triangles": 166,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 42866.93,
+    "size_mm": [
+      54.759,
+      42.0,
+      32.0
+    ],
+    "min_mm": [
+      -0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "tray_left.stl",
+    "triangles": 402,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 132326.84,
+    "size_mm": [
+      129.878,
+      137.487,
+      40.7
+    ],
+    "min_mm": [
+      0.0,
+      0.0,
+      -0.0
+    ]
+  },
+  {
+    "file": "tray_right.stl",
+    "triangles": 402,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 132326.85,
+    "size_mm": [
+      129.878,
+      137.487,
+      40.7
+    ],
+    "min_mm": [
+      8.4724,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "upper_left.stl",
+    "triangles": 214,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 107269.06,
+    "size_mm": [
+      54.759,
+      209.35,
+      32.0
+    ],
+    "min_mm": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "file": "upper_right.stl",
+    "triangles": 214,
+    "watertight": true,
+    "consistent_winding": true,
+    "components": 1,
+    "volume_mm3": 107269.06,
+    "size_mm": [
+      54.759,
+      209.35,
+      32.0
+    ],
+    "min_mm": [
+      -0.0,
+      0.0,
+      0.0
+    ]
+  }
+]
