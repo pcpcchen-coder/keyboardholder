@@ -1,0 +1,34 @@
+{
+  "stages_mm": [
+    335,
+    355,
+    375
+  ],
+  "checks": [
+    {
+      "part": "upper_left",
+      "same_geometry_at_all_stages": true,
+      "triangle_data_sha256": "cb0e6adb62b8a0bc95927332b9dd84765625f86d1f6fab2c87738bed0eec51ee"
+    },
+    {
+      "part": "upper_right",
+      "same_geometry_at_all_stages": true,
+      "triangle_data_sha256": "5730d5bcc74645624c9cbccbadd16fdbaf3f627f77a5cc6a48702f697cf82925"
+    },
+    {
+      "part": "lower_left",
+      "same_geometry_at_all_stages": true,
+      "triangle_data_sha256": "eec28cec9109fcab8fc54db1a577b3be66919db31602a48a41f7906594c20fad"
+    },
+    {
+      "part": "lower_right",
+      "same_geometry_at_all_stages": true,
+      "triangle_data_sha256": "a9242e42aef8c120957c4e7ff4b3d269a8586372e31ac31627ab7068effaf6f2"
+    },
+    {
+      "part": "pin_joint",
+      "same_geometry_at_all_stages": true,
+      "triangle_data_sha256": "cbb79b023030ecee9339e6d32e713b8d3c9aa059580db8e1b060a788b9bff649"
+    }
+  ]
+}

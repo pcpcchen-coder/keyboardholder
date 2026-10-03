@@ -77,5 +77,5 @@ def check(path):
 if __name__ == '__main__':
     stl_dir = Path(__file__).resolve().parent.parent / 'STL'
     files = sorted(stl_dir.glob('*.stl'))
-    assert len(files) == 13, f'Expected 13 STL files, found {len(files)}'
+    assert len(files) == 10, f'Expected 10 STL files, found {len(files)}'
     print(json.dumps([check(path) for path in files], indent=2))
